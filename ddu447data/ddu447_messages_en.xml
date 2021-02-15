@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[DDU447]]></data>
+
+
+
+  <data name="en_pano58_title"><![CDATA[01 - Спортзал №1]]></data>
+
+
+  <data name="en_pano59_title"><![CDATA[02 - Спортзал №2]]></data>
+
+
+  <data name="en_pano60_title"><![CDATA[03 - Бассейн]]></data>
+
+
+  <data name="en_pano61_title"><![CDATA[04 - Музыкальный зал]]></data>
+
+
+  <data name="en_pano62_title"><![CDATA[05 - Кабинет психолога]]></data>
+
+
+
+
+
+
+  <data name="en_controlBar_dockedThumbnailsprevSceneTip"><![CDATA[Предыдущая панорама]]></data>
+  <data name="en_controlBar_dockedThumbnailsnextSceneTip"><![CDATA[Следующая панорама]]></data>
+  <data name="en_controlBar_dockedThumbnailszoomInTip"><![CDATA[Увеличить]]></data>
+  <data name="en_controlBar_dockedThumbnailszoomOutTip"><![CDATA[Уменьшить]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveLeftTip"><![CDATA[Движение влево]]></data>
+  <data name="en_controlBar_dockedThumbnailsmoveRightTip"><![CDATA[Движение вправо]]></data>
+  <data name="en_controlBar_dockedThumbnailsopenFsTip"><![CDATA[Включить полноэкранный режим]]></data>
+  <data name="en_controlBar_dockedThumbnailscloseFsTip"><![CDATA[Выключить полноэкранный режим]]></data>
+  <data name="en_controlBar_dockedThumbnailsautorotateOnTip"><![CDATA[Включить автовращение]]></data>
+  <data name="en_controlBar_dockedThumbnailsautorotateOffTip"><![CDATA[Выключить автовращение]]></data>
+  <data name="en_controlBar_dockedThumbnailsdisplayControlsTip"><![CDATA[Показать панель управления]]></data>
+  <data name="en_controlBar_dockedThumbnailshideControlsTip"><![CDATA[Скрыть панель управления]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
